@@ -8,12 +8,6 @@
 - Building practical, scalable analytics solutions  
 - Bridging technical teams and business stakeholders  
 
-### 🛠 Languages & Tools
-- Programming & Data Processing: Python (Pandas, NumPy, scikit-learn), PySpark, SQL (SQLite), R
-- Data Platforms & Cloud: Databricks, Azure
-- Data Analytics and Visualization: Excel, Tableau, Power BI, Google Analytics
-- Tools & Platforms: Jupyter Notebook, Google Colab, PyCharm, Spyder, RStudio, SQLiteStudio, DBeaver, Figma
-
 ### 📖 What I've learned at UCL
 - Natural Language Processing
 - Predictive Analytics
@@ -21,5 +15,11 @@
 - Marketing Analytics (using R to build machine learning models)
 - Programming (using Python to build machine learning models)
 - Statistics
+
+### 🛠 Languages & Tools
+- Programming & Data Processing: Python (Pandas, NumPy, scikit-learn), PySpark, SQL (SQLite), R
+- Data Platforms & Cloud: Databricks, Azure
+- Data Analytics and Visualization: Excel, Tableau, Power BI, Google Analytics
+- Tools & Platforms: Jupyter Notebook, Google Colab, PyCharm, Spyder, RStudio, SQLiteStudio, DBeaver, Figma
 
 📫 Feel free to connect with me on LinkedIn 👉 https://www.linkedin.com/in/cindyyy-chang/
