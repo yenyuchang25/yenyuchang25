@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Cindy
 🎓 MSc Business Analytics @ University College London (Class of 2026)  
 📊 Interested in Data Science, Data Analytics, Product Analytics & AI-enabled systems  
-💡 Background in software product management & business analysis   
+💼 Background in software product management & business analysis   
 
-### 🧠 What I care about
+### 💡 What I care about
 - Turning data into actionable business insights  
 - Building practical, scalable analytics solutions  
 - Bridging technical teams and business stakeholders  
