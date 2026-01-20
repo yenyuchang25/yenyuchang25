@@ -21,5 +21,3 @@
 - Data Platforms & Cloud: Databricks, Azure
 - Data Analytics and Visualization: Excel, Tableau, Power BI, Google Analytics
 - Tools & Platforms: Jupyter Notebook, Google Colab, PyCharm, Spyder, RStudio, SQLiteStudio, DBeaver, Figma
-
-📫 Feel free to connect with me on LinkedIn 👉 https://www.linkedin.com/in/cindyyy-chang/
