@@ -10,8 +10,19 @@
 - Bridging technical teams and business stakeholders  
 
 ### 🛠 Languages & Tools
-Python · R · SQL · Tableau · Git · Docker · Azure  
-Pandas · scikit-learn · ggplot2 · Power BI  
+- Programming & Data Processing: Python (Pandas, NumPy, scikit-learn), PySpark, SQL (SQLite), R
+- Data Platforms & Cloud: Databricks, Azure
+- Data Analytics and Visualization: Excel, Tableau, Power BI, Google Analytics
+- Tools & Platforms: Jupyter Notebook, Google Colab, PyCharm, Spyder, RStudio, SQLiteStudio, DBeaver, Figma
+
+### What I learned in UCL
+- Natural Language Processing
+- Predictive Analytics
+- Machine Learning for Business (build service with AI agents)
+- Statistics
+- Operations Analytics
+- Marketing Analytics (using R to build machine learning models)
+- Programming (using Python to build machine learning models) 
 
 ### 📌 Featured Projects
 - Hotel Pricing Strategy & Customer Segmentation Analytics
