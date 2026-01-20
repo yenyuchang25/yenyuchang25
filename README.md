@@ -14,7 +14,7 @@
 - Data Analytics and Visualization: Excel, Tableau, Power BI, Google Analytics
 - Tools & Platforms: Jupyter Notebook, Google Colab, PyCharm, Spyder, RStudio, SQLiteStudio, DBeaver, Figma
 
-### 📖 What I've learned in UCL
+### 📖 What I've learned at UCL
 - Natural Language Processing
 - Predictive Analytics
 - Machine Learning for Business (build service with AI agents)
