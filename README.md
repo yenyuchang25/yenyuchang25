@@ -15,19 +15,13 @@
 - Data Analytics and Visualization: Excel, Tableau, Power BI, Google Analytics
 - Tools & Platforms: Jupyter Notebook, Google Colab, PyCharm, Spyder, RStudio, SQLiteStudio, DBeaver, Figma
 
-### What I learned in UCL
+### 📖 What I learned in UCL
 - Natural Language Processing
 - Predictive Analytics
 - Machine Learning for Business (build service with AI agents)
-- Statistics
-- Operations Analytics
 - Marketing Analytics (using R to build machine learning models)
-- Programming (using Python to build machine learning models) 
-
-### 📌 Featured Projects
-- Hotel Pricing Strategy & Customer Segmentation Analytics
-- Speed Dating Behaviour Analytics & Predictive Modelling
-- AgentVerse AI Hackathon - Building a GenAI query distribution and workflow optimisation system
+- Programming (using Python to build machine learning models)
+- Statistics
 
 📫 Feel free to connect with me on LinkedIn 🙂
 https://www.linkedin.com/in/cindyyy-chang/
