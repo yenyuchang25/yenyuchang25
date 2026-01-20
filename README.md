@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Cindy
 
-<!--
-**yenyuchang25/yenyuchang25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Business Analytics @ University College London (UCL)  
+📊 Interested in Data Science, Data Analytics, Product Analytics & AI-enabled systems  
+💡 Background in software product management & business analysis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I care about
+- Turning data into actionable business insights  
+- Building practical, scalable analytics solutions  
+- Bridging technical teams and business stakeholders  
+---
+
+### 🛠 Languages & Tools
+Python · R · SQL · Tableau · Git · Docker · Azure  
+Pandas · scikit-learn · ggplot2 · Power BI  
+
+---
+
+### 📌 Featured Projects
+- Hotel Pricing Strategy & Customer Segmentation Analytics
+- Speed Dating Behaviour Analytics & Predictive Modelling
+- AgentVerse AI Hackathon - Building a GenAI query distribution and workflow optimisation system
+
+📫 Feel free to connect with me on LinkedIn 🙂
+https://www.linkedin.com/in/cindyyy-chang/
