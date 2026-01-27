@@ -9,15 +9,16 @@
 - Bridging technical teams and business stakeholders  
 
 ### 📖 What I've learned at UCL
-- Natural Language Processing
+- Natural Language Processing (RAG, Intent Classification)
 - Predictive Analytics
-- Machine Learning for Business (build service with AI agents)
+- Machine Learning (build LLM-based service)
+- Operations Analytics (Supply & Demand Forecasting)
 - Marketing Analytics (using R to build machine learning models)
 - Programming (using Python to build machine learning models)
 - Statistics
 
 ### 🛠 Languages & Tools
 - Programming & Data Processing: Python (Pandas, NumPy, scikit-learn), PySpark, SQL (SQLite), R
-- Data Platforms & Cloud: Databricks, Azure
 - Data Analytics and Visualization: Excel, Tableau, Power BI, Google Analytics
 - Tools & Platforms: Jupyter Notebook, Google Colab, PyCharm, Spyder, RStudio, SQLiteStudio, DBeaver, Figma
+- Analytics & Methods: Statistical Analysis (EDA, Regression, Hypothesis Testing, Model Diagnostics), Machine Learning (Logistic Regression, Decision Tree, Random Forest), Customer & Pricing Analytics (RFM Analysis, k-means Clustering, Segmentation, CLV, Churn Analysis)
