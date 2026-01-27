@@ -13,8 +13,8 @@
 - Predictive Analytics
 - Machine Learning (build LLM-based service)
 - Operations Analytics (Supply & Demand Forecasting)
-- Marketing Analytics (using R to build machine learning models)
-- Programming (using Python to build machine learning models)
+- Marketing Analytics (using R to build ML models)
+- Programming (using Python to build ML models)
 - Statistics
 
 ### 🛠 Languages & Tools
