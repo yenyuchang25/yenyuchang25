@@ -9,7 +9,7 @@
 - Bridging technical teams and business stakeholders  
 
 ### 📖 What I've learned at UCL
-- Natural Language Processing (RAG, Intent Classification)
+- Natural Language Processing (RAG)
 - Predictive Analytics
 - Machine Learning (build LLM-based service)
 - Operations Analytics (Supply & Demand Forecasting)
